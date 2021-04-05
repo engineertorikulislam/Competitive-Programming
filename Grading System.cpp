@@ -9,7 +9,7 @@ int main()
     while(n--)
     {
         cin>>mark;
-        cout<<"Student "<<c<<": ";
+        cout<<"Student "<<count<<": ";
         if(mark >= 90 && mark <=100)
         {
             cout<<"A+";
